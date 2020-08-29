@@ -3,6 +3,7 @@ According to the [government of canada](https://tc.canada.ca/en/road-transportat
 
 ## Features
 DriveSafe allows users to explore collision and traffic volume data regarding intesections in Vancouver B.C.
+
 Some examples of the features are listed below:
 1. View the most dangerous intersections
 2. Report a collision at an intersection
@@ -15,6 +16,7 @@ Some examples of the features are listed below:
 
 ## Tech Stack
 DriveSafe is an **React** web application with a **Node.js** backend connected to a GCP Cloud SQL **MySQL** database.
+
 The frontend repository can be found [here](https://github.com/emilytao/DriveSafe-Frontend)
 
 ## Android App
