@@ -7,7 +7,7 @@ DriveSafe allows users to explore collision and traffic volume data regarding in
 Some examples of the features are listed below:
 1. View the most dangerous intersections
 2. Report a collision at an intersection
-3. Visualize intersection information using Google Maps
+3. Visualize intersection data using Google Maps
 
 ## Data
 1. [An open source collision information dataset](https://public.tableau.com/profile/icbc#!/vizhome/LowerMainlandCrashes/LMDashboard)
