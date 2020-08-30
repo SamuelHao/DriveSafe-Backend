@@ -25,4 +25,3 @@ An accompanying android app was developed by one of our team members and can be 
 DriveSafe supports an interactive map, similar to Google maps, with two main features: 
 1. DriveSafe calculates the "safest" route for drivers using open source collision information and live traffic data. 
 2. DriveSafe warns drivers when they are approaching dangerous intersections using text-to-speech.
-
