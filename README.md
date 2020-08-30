@@ -1,4 +1,5 @@
 # DriveSafe
+![Website Screenshot](/DriveSafeSplash.PNG)
 According to the [government of canada](https://tc.canada.ca/en/road-transportation/motor-vehicle-safety/canadian-motor-vehicle-traffic-collision-statistics-2018), in 2018 alone, motor vehicle collisions were the cause of 152,847 injuries, 1,743 of which were fatal. DriveSafe is a database-reliant platform that acts to promote road safety, in hopes of lowering this number in the coming years. 
 
 ## Features
